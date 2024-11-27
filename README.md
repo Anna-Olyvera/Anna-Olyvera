@@ -58,7 +58,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Anna-Olyvera/Anna-Olyvera/output/snake.svg" alt="Snake animation" />
-
-###
